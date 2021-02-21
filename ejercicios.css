@@ -1,0 +1,30 @@
+
+html, body, #divMap{
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+#BasemapToggle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    z-index: 50;
+}
+
+#mapabase{
+    position: absolute;
+    top: 100px;
+    right: 20px;
+    z-index: 50;
+}
+
+#bcMain {
+    width: 100%;
+    height: 100%;
+}
+
+#cpLeading {
+    width: 117px;
+}
